@@ -4,13 +4,13 @@ I am a 15-year old sophomore for East Brunswick High School. I am skilled at a m
 
 ![image](https://user-images.githubusercontent.com/67479795/121962485-cc08f800-cd36-11eb-8a2c-4ed8cced66a5.png)
 
-### Social Media Information
+## Social Media Information
 
 Twitter: ---
 
-### Accomplishments
+## Accomplishments
 
-## Quizbowl: 
+### Quizbowl: 
 
 2019 National History Bee Middle School Northeast Regional Champion
 
@@ -32,7 +32,7 @@ Twitter: ---
 
 [HDWhite Quizbowl page](https://hdwhite.org/qb/stats/player/Simon+Emmanuel)
 
-## Model UN:
+### Model UN:
 
 2x Distinguished Delegate 
 

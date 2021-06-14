@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/SimozeEmmanuel/Simon-Emmanuel-About-Me/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a 15-year old sophomore for East Brunswick High School. I am skilled at a multitude of sports including soccer, basketball, and swimming. I can learn and grasp concepts very quickly and I love to try new things.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![image](https://user-images.githubusercontent.com/67479795/121962485-cc08f800-cd36-11eb-8a2c-4ed8cced66a5.png)
 
-### Markdown
+### Social Media Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Twitter: ---
 
-```markdown
-Syntax highlighted code block
+### Accomplishments
 
-# Header 1
-## Header 2
-### Header 3
+## Quizbowl: 
 
-- Bulleted
-- List
+2019 National History Bee Middle School Northeast Regional Champion
 
-1. Numbered
-2. List
+2020 National History Bee Junior Varsity Semifinalist
+ 
+2021 National History Bowl 4th Place
 
-**Bold** and _Italic_ and `Code` text
+2020 US History Bee 5th Place Nationwide
 
-[Link](url) and ![Image](src)
-```
+3x National History Bee Junior Varsity Regional Finalist
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+2021 US History Bee Regional 3rd Place
+ 
+2x Us History Bee Junior Varsity Regional Finalist
 
-### Jekyll Themes
+2x Distinguished Delegate at Model United Nations Conferences
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SimozeEmmanuel/Simon-Emmanuel-About-Me/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+53rd place at 2021 NAQT Individual Player National Championship Tournament
 
-### Support or Contact
+[HDWhite Quizbowl page](https://hdwhite.org/qb/stats/player/Simon+Emmanuel)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Model UN:
+
+2x Distinguished Delegate 
+

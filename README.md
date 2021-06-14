@@ -1,6 +1,6 @@
 ## About Me
 
-I am a 15-year old sophomore for East Brunswick High School. I am skilled at a multitude of sports including soccer, basketball, and swimming. I can learn and grasp concepts very quickly and I love to try new things.
+My name is Simon Emmanuel, and I am a 15-year old sophomore who goes to East Brunswick High School. I am skilled at a multitude of sports including soccer, basketball, and swimming. I can learn and grasp concepts very quickly and I love to try new things.
 
 ![image](https://user-images.githubusercontent.com/67479795/121962485-cc08f800-cd36-11eb-8a2c-4ed8cced66a5.png)
 

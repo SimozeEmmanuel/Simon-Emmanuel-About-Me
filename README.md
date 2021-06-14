@@ -26,13 +26,12 @@ Twitter: ---
  
 2x Us History Bee Junior Varsity Regional Finalist
 
-2x Distinguished Delegate at Model United Nations Conferences
-
 53rd place at 2021 NAQT Individual Player National Championship Tournament
 
 [HDWhite Quizbowl page](https://hdwhite.org/qb/stats/player/Simon+Emmanuel)
 
 ### Model UN:
 
-2x Distinguished Delegate 
+Distinguished Delegate at 2021 Connect Model United Nations
+Distinguished Delegate at 2021 eMUNC
 

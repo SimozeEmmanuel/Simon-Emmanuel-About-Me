@@ -6,7 +6,7 @@ My name is Simon Emmanuel, and I am a 15-year old sophomore who goes to East Bru
 
 ## Social Media Information
 
-Twitter: ---
+[Twitter](https://twitter.com/SimozeEmmanuel)
 
 ## Accomplishments
 

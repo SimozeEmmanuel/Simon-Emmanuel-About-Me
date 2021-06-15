@@ -32,5 +32,6 @@ My name is Simon Emmanuel, and I am a 15-year old sophomore who goes to East Bru
 ### Model UN:
 
 Distinguished Delegate at 2021 Connect Model United Nations
+
 Distinguished Delegate at 2021 eMUNC
 
